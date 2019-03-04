@@ -24,4 +24,4 @@
 * \sum_{i=1}^{j}{i*x_{i}} <= j, (j=1,2,...,n)
 * x_{i}>0, (i=1,2,...,n)
 
-![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
+![Image text](https://github.com/liu6zijian/-/blob/master/Optimal%20problem.png)
